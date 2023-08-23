@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PqxAKnTDcEDw7bfioWAnttLUdpaf3AbIlt/oQRmv0MJ+qQM80Umcrdv4CAJ5BxBuHkxll04Io7m5jYVLv4Z/zg==",
+  "dgSpecHash": "R9IIOxU7px8qRtd0L4I6G4l44hQ4KygC9nUeS1mGmchbU2c42xj/uCucJXOHOHNk5AgW0hNAN8kParL/yFtCPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\taakSouf\\taakSouf.csproj",
+  "projectFilePath": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\WerkstukWpf\\taakSouf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Soufian\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Soufian\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

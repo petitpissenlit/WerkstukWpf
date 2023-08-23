@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\taakSouf\\taakSouf.csproj": {}
+    "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\WerkstukWpf\\taakSouf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\taakSouf\\taakSouf.csproj": {
+    "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\WerkstukWpf\\taakSouf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\taakSouf\\taakSouf.csproj",
+        "projectUniqueName": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\WerkstukWpf\\taakSouf.csproj",
         "projectName": "taakSouf",
-        "projectPath": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\taakSouf\\taakSouf.csproj",
+        "projectPath": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\WerkstukWpf\\taakSouf.csproj",
         "packagesPath": "C:\\Users\\Soufian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\taakSouf\\obj\\",
+        "outputPath": "C:\\Users\\Soufian\\Documents\\ehb\\net.advanced\\WerkstukWpf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Soufian\\AppData\\Roaming\\NuGet\\NuGet.Config",
